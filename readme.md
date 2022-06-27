@@ -1,10 +1,10 @@
 # About me
 
-I am currently part of a projects team in Continental Engineering Department, with a main focus on software development and system integration. My background includes a combination of knowledge and skills in different areas of engineering obtained during my professional and educational background. In 2021, I finished my master's degree in electronic and computer engineering where I defended the dissertation titled "Medical Image Analysis using Deep Learning methodologies" where I obtained a classification of 19/20.
+I'm currently part of an IT team at Continental in Portugal, working in the field of manufacturing industry (tire industry), IoT, industry 4.0 and business intelligence, with focus on software development, systems integration, support and monitoring of applications and processes. My background includes a combination of knowledge and skills in different engineering fields obtained during my professional and educational training. In 2021, I completed my master's degree in electronic and computer engineering where I defended the dissertation titled "Medical Image Analysis using Deep Learning methodologies", where I obtained a grade of 19/20.
 
-Ability to effectively solve complex engineering problems and adapt to change. Accustomed to working under pressure for extended periods of time and meeting tight deadlines.
+Ability to effectively solve complex engineering problems and adapt to change. Accustomed to working under pressure for long periods of time and meeting tight deadlines.
 
-Ability to lead and motivate people based on experience of leading a team of n-member bachelor's / master's degree students.
+Ability to lead and motivate people based on experience leading a team of bachelor's / master's n-member students.
 
 Problem solver, proactive, persistent and resilient. Always eager and curious for knowledge.
 
